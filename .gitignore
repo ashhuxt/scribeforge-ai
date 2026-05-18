@@ -1,0 +1,4 @@
+# Add this line inside your project's .gitignore file:
+.env
+.venv/
+__pycache__/
