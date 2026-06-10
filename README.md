@@ -225,7 +225,7 @@ backend/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ashhuxt/scribeforge-ai.git
 cd backend
 ```
 
